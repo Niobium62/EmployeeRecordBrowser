@@ -158,7 +158,7 @@ public class EmployeeFrame extends JFrame{
         // display employee records in text area
         String empTableData = "";
         for (Employee empArray1 : empArray) {
-            empTableData = empTableData + empArray1;
+            empTableData = empTableData + empArray1 + '\n';
         }
         employeeTable.setText(empTableData);
     }
