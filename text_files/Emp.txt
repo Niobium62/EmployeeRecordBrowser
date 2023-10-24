@@ -1,0 +1,8 @@
+7
+10 416-555-6667 Burgess Smith 15
+15 905-777-8888 Thomas Patel 10
+20 905-111-2222 Morris J. Stevenson 5
+25 416-222-3333 Spencer Larson 30
+30 416-333-4444 Adams Doe 18
+35 905-122-5454 Price Hanks 15
+40 905-343-5151 Clement L. Webster 8
